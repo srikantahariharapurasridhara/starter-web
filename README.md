@@ -7,3 +7,5 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 change from local for master
+
+change from web for master
